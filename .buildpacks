@@ -1,2 +1,2 @@
-https://github.com/jontewks/puppeteer-heroku-buildpack
+https://github.com/heroku/heroku-buildpack-google-chrome.git
 https://github.com/heroku/heroku-buildpack-nodejs.git#v123
