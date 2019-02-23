@@ -1,3 +1,7 @@
+# Prerender for Dokku
+
+All you have to do is to push this repository on your Dokku server and everything should run smoothly.
+
 Prerender [![Stories in Ready](https://badge.waffle.io/prerender/prerender.png?label=ready&title=Ready)](https://waffle.io/prerender/prerender)
 ===========================
 
