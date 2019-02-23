@@ -2,7 +2,8 @@
 var prerender = require('./lib');
 
 var server = prerender({
-  chromeLocation: "/app/.apt/usr/bin/google-chrome-stable"
+  chromeLocation: "/app/.apt/usr/bin/google-chrome-stable",
+  logRequests: true
 });
 
 server.use(prerender.sendPrerenderHeader());
