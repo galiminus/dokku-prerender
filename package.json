@@ -12,7 +12,7 @@
     "body-parser": "~1.18.3",
     "chrome-remote-interface": "~0.25.7",
     "compression": "~1.7.3",
-    "express": "~4.16.3",
+    "express": "~4.19.2",
     "he": "~1.1.1",
     "valid-url": "~1.0.9"
   },
